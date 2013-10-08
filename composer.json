@@ -1,5 +1,5 @@
 {
-  "name": "eternicode/bootstrap-datepicker",
+  "name": "jseto/bootstrap-datepicker",
   "require": {
     "frameworks/jquery" : ">=1.7.1",
     "twitter/bootstrap" : ">=3.0.0"
